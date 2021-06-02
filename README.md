@@ -1,7 +1,7 @@
 # NATOURS
 Hey Guys, Welcome to the source code of NATOURS PROJECT (Only the front end), which I created and is originally designed by Jonas Schmedtmann in the course "Advance CSS and SASS".  
 This projected is hosted on fast.io and can be checked out by the following link:  
-http://natour.imfast.io  
+https://natours4.netlify.app  
 Please check it out and leave some feedback so that I can make my code more clean and productive.  
 
 # HIGHLIGHTS
